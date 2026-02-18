@@ -52,9 +52,9 @@ top_genres.plot(kind='bar', title='Top 20 Genres by Raw Popularity')
 
 * Free to play games benefit from having no financial barrier to entry, which increases ownership and boosts measured popularity.
 
-* It's also worth noting that most of these genres are not mutually exclusive, and most games a mixture of atleast two of these genres. 
+* It's also worth noting that most of these genres are not mutually exclusive, and most games contain a mixture of atleast two of these genres. 
 
-* Average popularity therefore provides a clearer picture of genre consistency and may be more useful for developers than total popularity alone.
+
 
 
 ### ***Sweet-Spot:***
