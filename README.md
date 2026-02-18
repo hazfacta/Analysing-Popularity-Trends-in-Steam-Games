@@ -42,6 +42,7 @@ top_genres.plot(kind='bar', title='Top 20 Genres by Raw Popularity')
 * Massively Multiplayer clearly dominates average popularity.
 * Movie has surprisingly high average popularity.
 * Indie drops noticeably in ranking between the two graphs.
+* Free-to-Play scores well on both graphs
 
 
 ### **Take-aways:**
