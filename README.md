@@ -95,7 +95,7 @@ Whilst there is a clear correlation between achievement count and popularity, hi
 * Game length
 * Structured progression
 
-*In essense, larger + more polished games = more players/better reviews*
+*In essense, larger + more polished games = more players/better reviews/more achievements*
 
 **Sweet-spot**
 
