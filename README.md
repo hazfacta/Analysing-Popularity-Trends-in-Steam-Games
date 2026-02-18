@@ -85,8 +85,9 @@ df_filtered.plot(kind = 'scatter',
 
 **Initial Observations:**
 * Slight positive correlation
+* Sweet spot of 20-100 achievements
+* Single outlier at 1 achievement (likely CS2)
 * Beyond ~100(10^2) achievements, popularity becomes highly dispersed.
-* So achievements ≠ guarantee of success.
 
 **Take-aways:**
 
@@ -97,13 +98,11 @@ Whilst there is a clear correlation between achievement count and popularity, hi
 
 *In essense, larger + more polished games = more players/better reviews/more achievements*
 
-**Sweet-spot**
-
-* 20-100 achievements
+So perhaps directly correlating achievements to popularity is not the most useful thing to do.
 
 ## **What I'm working on:**
-* Pricing section
-* Release Window section
+* Release Window section -best dates to release games
+* Pricing section -how much can you charge before popularity drops off
 * More detailed visualisations (trend lines etc.)
 * Individual Case-studies
 
