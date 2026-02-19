@@ -1,4 +1,4 @@
-# What-Makes-a-Game-Popular-on-Steam?
+# Analyzing Popularity Trends in Steam Games
 
 ## **How to define popularity?**
 
